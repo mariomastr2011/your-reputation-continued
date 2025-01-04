@@ -52,14 +52,14 @@ public enum VillagerSnitchProvider implements IEntityComponentProvider, IServerD
 
         VillagerCache.Data villagerData = VillagerSnitchProvider.getVillagerData(data, player, villager);
 
-        IWailaConfig wailaConfig = Jade.CONFIG.get();
+        IWailaConfig wailaConfig = Jade.config();
 
         String name = Optional
                 .ofNullable(villager.getCustomName())
                 .orElse(villager.getType().getName())
                 .getString();
 
-        Text text = wailaConfig.getFormatting().registryName(name);
+        Text text = wailaConfig.formatting().registryName(name);
         if (villagerData.isSnitch()) {
             String snitchTranslateKey = String.format("entity.%s.villager.snitch",
                     ReputationMod.MOD_ID);
