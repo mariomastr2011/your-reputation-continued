@@ -1,17 +1,9 @@
-UPDATE THESE LINLS INFO ONCE THE MODRINTH PAGE IS UP
-
 [![Mod Loader: Fabric](https://img.shields.io/static/v1?label=modloader&message=fabric&color=brightgreen)](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 ![Mod Environment](https://img.shields.io/static/v1?label=environment&message=client%2Fserver&color=yellow)
 ![Version](https://cf.way2muchnoise.eu/versions/579757.svg)
 [![CurseForge](https://cf.way2muchnoise.eu/579757.svg)](https://www.curseforge.com/minecraft/mc-mods/your-reputation)
 [![Modrinth](https://img.shields.io/modrinth/dt/MrLyhFlg?color=%2300AF5C&logo=modrinth)](https://modrinth.com/mod/your-reputation)
 [![MIT License](https://img.shields.io/static/v1?label=licence&message=MIT&color=blue)](./LICENSE)
-
-The mod "Your Reputation" is a rather useful mod that allows [Jade](https://modrinth.com/mod/jade) users to see the reputation
-that each Villager has fore you. As it has not been updated on past 1.21.11, I have taken it upon myself to continue updating it.
-
-
-# Original description
 
 # Your Reputation
 
